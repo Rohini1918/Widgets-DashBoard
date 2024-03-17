@@ -1,0 +1,323 @@
+[
+    {
+        "name" : "widget-001",
+        "id" : 1,
+        "number_of_days" : [ "7d","14d","30d"],
+        "graph" : 
+        {
+            "x-axis_co-ordinates" : ["0","10k","20k","30k","40k"],
+            "y-axis_co-ordinates" : ["Google", "Instagram", "Facebook", "Tiktok"],
+            "variables" : ["Christmas25","BirthdaySpecial25","Newuser30"],
+            "Christmas25_co-ordinates" : [
+                {
+                "x-co-ordinate" : "google",
+                "y-co-ordinate" :"11k"
+                },
+                { 
+                "x-co-ordinate" : "instagram",
+                "y-co-ordinate" :"5k"
+                },
+                {
+                "x-co-ordinate" : "facebook",
+                "y-co-ordinate" :"9k"
+                },
+                {
+                    "x-co-ordinate" : "Tiktok",
+                    "y-co-ordinate" :"6k" 
+                }
+            ],
+            "BirthdaySpecial25_co-ordinates" : [
+                {
+                "x-co-ordinate" : "google",
+                "y-co-ordinate" :"20k"
+                },
+                { 
+                "x-co-ordinate" : "instagram",
+                "y-co-ordinate" :"28k"
+                },
+                {
+                "x-co-ordinate" : "facebook",
+                "y-co-ordinate" :"6k"
+                },
+                {
+                    "x-co-ordinate" : "Tiktok",
+                    "y-co-ordinate" :"8k" 
+                }
+            ],
+            "NewUser30_co-ordinates" : [
+                {
+                "x-co-ordinate" : "google",
+                "y-co-ordinate" :"28k"
+                },
+                { 
+                "x-co-ordinate" : "instagram",
+                "y-co-ordinate" :"11k"
+                },
+                {
+                "x-co-ordinate" : "facebook",
+                "y-co-ordinate" :"12k"
+                },
+                {
+                    "x-co-ordinate" : "Tiktok",
+                    "y-co-ordinate" :"25k" 
+                }
+            ]
+        },
+        "variable_count_instagram" : {
+            "Christmas25" : "5,700",
+            "BirthdaySpecial25" : "27,000",
+            "Newuser30" : "12,500"
+        }
+    },
+    {
+        "name" : "widget-002",
+        "id" : 2,
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "graph" : 
+        {
+            "x-axis_co-ordinates" : ["0","10k","20k","30k","40k"]
+        }
+    },
+    {
+        "name" : "widget-003",
+        "id" : 3,
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "table" : 
+        {   
+            "title-column-1" : "PRODUCT",
+            "title-column-2" : "Q1-23",
+            "title-column-3" : "Q2-23",
+            "title-column-4" : "Q3-23",
+            "title-column-5" : "Q4-23",
+            "title-column-6" : "Q1-24",
+            "last_row_title_column-1" : "Total", 
+            "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials", "Reusabe", "Natural Resource","Compost Compound","Reusable Materials","Reusable","Natural Resource","Compost Compound","Reusable Materials","Reusable","Natural Resource","Compost Compound"],
+            "data_column-2" : ["10%","2%","7%","3%","10%","2%","7%","3%","10%","2%","7%","3%","10%","2%","7%"],
+            "data_column-3" : ["4%","11%","5%","4%", "4%","11%","5%","4%","4%","11%","5%","4%","4%","11%","5%"],
+            "data_column-4" : ["4%","11%","5%","4%","4%","11%","5%","4%","4%","11%","5%","4%","4%","11%","5%"],
+            "data_column-5" : ["4%","11%","5%","4%","4%","11%","5%","4%","4%","11%","5%","4%","4%","11%","5%"],
+            "data_column-6" : ["4%","11%","5%","4%","4%","11%","5%","4%","4%","11%","5%","4%","4%","11%","5%"],
+            "last_row_total_data" : ["8%","12%","7%","20%","3%"]
+        }
+    },
+    {
+        "name" : "widget-004",
+        "id" : 4,
+        "number_of_days" :["7d","14d","30d"],
+        "table" : 
+        {   
+            "title-column-1" : "PRODUCT",
+            "title-column-2" : "Q1-23",
+            "title-column-3" : "Q2-23",
+            "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials","Total"],
+            "data_column-2" : ["10%","2%","7%","3%","8%"],
+            "data_column-3" : ["4%","11%","5%","4%","12%"]
+        }
+    },
+    {
+        "name" : "widget-005",
+        "id" : 5,
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "table" : 
+        {   
+            "title-column-1" : "PRODUCT",
+            "title-column-2" : "Q1-23",
+            "title-column-3" : "Q2-23",
+            "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials","Total"],
+            "data_column-2" : ["10%","2%","7%","3%","8%"],
+            "data_column-3" : ["4%","11%","5%","4%","12%"]
+        }
+    },
+    {
+        "name" : "widget-006",
+        "id" : 6,
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "orders" : "89,000"
+    },
+    {
+        "name" : "widget-007",
+        "id" : 7,
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "y-axis" : ["0","5k","10k","15k","20k","25k","30k","35k","40k","45k"],
+        "x-axis" : ["Google","Instagram","Facebook","TikTok"],
+        "instagram_data" : 
+        {
+            "christmas" : "5,700",
+            "BirthdaySpecial25" : "27,000",
+            "Newuser30_g" : "12,500",
+            "Newuser30_b" : "16,000",
+            "Newuser30_y" : "17,500"
+        }
+    },
+    {
+        "name" : "widget-008",
+        "id" : 8,
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "y-axis" : ["0","10k","20k","30k","40k"],
+        "x-axis" : ["Google","Instagram","Facebook","TikTok"],
+        "co-ordinates_data":
+        [
+            {
+                "name" : "Christmas25",
+            "Google" : 10500,
+            "Instagram" : 2000,
+            "Facebook" : 9000,
+            "TikTok" : 7500,
+            "value" : "5,700"
+            },
+            {
+                "name" : "BirthdaySpecial25",
+            "Google" : 20000,
+            "Instagram" : 42000,
+            "Facebook" : 5000,
+            "TikTok" : 1000,
+            "value" : "27,000"
+            },
+            {
+                "name" : "Newuser30",
+            "Google" : 28000,
+            "Instagram" : 10500,
+            "Facebook" : 12000,
+            "TikTok" : 23000,
+            "value" : "12,500"
+            },
+            {
+                "name" : "Newuser30",
+            "Google" : 8000,
+            "Instagram" : 6000,
+            "Facebook" : 8800,
+            "TikTok" : 16000,
+            "value" : "16,000"
+            },
+            {
+                "name" : "Newuser30",
+            "Google" : 15000,
+            "Instagram" : 20000,
+            "Facebook" : 16000,
+            "TikTok" : 12000,
+            "value" : "17,500"
+            }
+        ]
+    },
+    {
+        "name" : "widget-009",
+        "id" : 9,
+        "Title" : "Today",
+        "drawDown_icon" : "D:/crux_frontend/assignment/src/images/drawDown.png",
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "table" : 
+        {   
+            "title-column-1" : "PRODUCT",
+            "title-column-2" : "Q1-23",
+            "title-column-3" : "Q2-23",
+            "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials","Total"],
+            "data_column-2" : ["10%","2%","7%","3%","8%"],
+            "data_column-3" : ["4%","11%","5%","4%","12%"]
+        }
+    },
+    {
+        "name" : "widget-010",
+        "id" : 10,
+        "Title" : "Today",
+        "drawDown_icon" : "D:/crux_frontend/assignment/src/images/drawDown.png",
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "table" : 
+        {   
+            "title-column-1" : "PRODUCT",
+            "title-column-2" : "Q1-23",
+            "title-column-3" : "Q2-23",
+            "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials"],
+            "data_column-2" : ["10%","2%","7%","3%"],
+            "data_column-3" : ["4%","11%","5%","4%"],
+            "Total" : ["8%","12%"]
+        }
+    },
+    {
+        "name" : "widget-011",
+        "id" : 11,
+        "section-1" : {
+            
+        "name" : "widget-011-1",
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "y-axis" : ["0","10k","20k","30k","40k"],
+        "cordinates" : 
+        {
+                "cordinate-1" : {
+                    "x-cordinate" : "1",
+                    "y-cordinate" : "21k"
+                },
+                "cordinate-2" : {
+                    "x-cordinate" : "2",
+                    "y-cordinate" : "39k"
+                },
+                "cordinate-3" : {
+                    "x-cordinate" : "3",
+                    "y-cordinate" : "18k"
+                },
+                "cordinate-4" : {
+                    "x-cordinate" : "4",
+                    "y-cordinate" : "29k"
+                },
+                "cordinate-5" : {
+                    "x-cordinate" : "5",
+                    "y-cordinate" : "8k"
+                },
+                "cordinate-6" : {
+                    "x-cordinate" : "6",
+                    "y-cordinate" : "20k"
+                }
+        }
+      },
+      "section-2" : 
+      {
+        "name" : "widget-011-2",
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "table" : 
+        {   
+            "title-column-1" : "PRODUCT",
+            "title-column-2" : "Q1-23",
+            "title-column-3" : "Q2-23",
+            "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials","Total"],
+            "data_column-2" : ["10%","2%","7%","3%","8%"],
+            "data_column-3" : ["4%","11%","5%","4%","12%"]
+        }
+      },
+      "section-3" : {
+        "name" : "widget-011-3",
+        "Title" : "Today",
+        "drawDown_icon" : "D:/crux_frontend/assignment/src/images/drawDown.png",
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "content" : "Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in "
+    }
+    },
+    {
+        "name" : "widget-012",
+        "id" : 12,
+        "Title" : "Today",
+        "drawDown_icon" : "D:/crux_frontend/assignment/src/images/drawDown.png",
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "content" : "Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in "
+    },
+    {
+        "name" : "widget-013",
+        "number_of_days" :["7d","14d","30d"],
+        "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+        "table" : 
+        {   
+            "title-column-1" : "PRODUCT",
+            "title-column-2" : "Q1-23",
+            "title-column-3" : "Q2-23",
+            "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials","Total"],
+            "data_column-2" : ["10%","2%","7%","3%","8%"],
+            "data_column-3" : ["4%","11%","5%","4%","12%"]
+        }
+    }
+]

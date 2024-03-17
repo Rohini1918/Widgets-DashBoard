@@ -1,0 +1,675 @@
+#widget-011
+{
+  /* Widget 011 */
+
+position: absolute;
+width: 785px;
+height: 190px;
+left: 492px;
+top: 1px;
+
+filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.1));
+
+}
+#widget-011-1
+{
+  /* Rectangle 197 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 204px;
+height: 190px;
+left: 105px;
+top: 120px;
+
+background: #282828;
+border: 1px solid #E7E7E7;
+border-radius: 15px 0px 0px 15px;
+
+}
+#widget-011-2
+{
+  /* Rectangle 204 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 204px;
+height: 190px;
+left: 308px;
+top: 120px;
+
+background: #FFFFFF;
+border: 1px solid #E6E6E6;
+
+}
+#widget-011-3
+{
+  /* Rectangle 205 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 480px;
+height: 190px;
+left: 510px;
+top: 120px;
+padding: 5px;
+background: #FFFFFF;
+border: 1px solid #E6E6E6;
+border-radius: 0px 15px 15px 0px;
+
+}
+#days11
+{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    margin-left: -10px;
+}
+#day11
+{
+width: 37px;
+height: 19px;
+top: 10px;
+margin-left: -10px;
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+color: #757575;
+;
+}
+#day11:hover{
+    color:white;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 6px;
+}
+#threedots_icon11
+{
+   /* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+position: absolute;
+width: 18px;
+height: 5px;
+left: 155px;
+top: 25px;
+
+
+}
+#widget-011_section-1_header
+{
+    /* Vector 233 */
+
+position: absolute;
+width: 198px;
+height: 0px;
+left:2px;
+top: 31px;
+
+border: 1px solid #363636;
+
+}
+#threedots_icon11
+{
+  color: #363636;
+}
+#widget-011_2_section-1
+{
+    display: flex;
+    gap: 40px;
+}
+#days11_2
+{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    margin-left: -10px;
+}
+#day11_2
+{
+width: 37px;
+height: 19px;
+top: 10px;
+margin-left: -10px;
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+color:#BBBBBB;
+;
+;
+}
+#day11_2:hover{
+    color:#5E5ADB;
+    text-decoration: underline;
+    text-decoration-color: #5E5ADB;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 6px;
+}
+#threedots_icon11_2
+{
+   /* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+position: absolute;
+width: 18px;
+height: 5px;
+left: 155px;
+top: 25px;
+
+
+}
+#widget-011_2_section-1_header
+{
+    /* Vector 233 */
+
+    position: absolute;
+    width: 188px;
+    height: 0px;
+    left: 1px;
+    top: 31px;
+    
+    border: 1px solid #E1E1E1;
+
+}
+#threedots_icon11_2
+{
+  color: #363636;
+}
+#widget11_2_table_mainrow_column-1
+{
+    /* Product */
+
+position: absolute;
+width: 77px;
+height: 19px;
+left: 14px;
+top: 46px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 18px;
+/* or 164% */
+text-transform: uppercase;
+
+color:#5E5ADB;
+;
+
+
+}
+#widget11_2_table_mainrow_column-2
+{
+/* Q1-23 */
+
+position: absolute;
+width: 77px;
+height: 19px;
+left: 96px;
+top: 46px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 18px;
+/* or 180% */
+text-transform: uppercase;
+
+color: #ABA8FF;
+;
+
+}
+#widget11_2_table_mainrow_column-3
+{
+    /* Q2-23 */
+
+position: absolute;
+width: 77px;
+height: 19px;
+left: 133px;
+top: 46px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 18px;
+/* or 180% */
+text-transform: uppercase;
+
+color:#ABA8FF;
+;
+
+
+}
+#widget11_2_table_firstrow_column-1
+{
+/* Reusable */
+
+position: absolute;
+width: 103px;
+height: 18px;
+left: -5px;
+top: 67px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+;
+}
+#widget11_2_table_firstrow_column-2
+{
+    /* 10% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 118px;
+top: 67px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+}
+#widget11_2_table_firstrow_column-3
+{
+/* 4% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 155px;
+top: 67px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+
+}
+#widget11_2_table_secondrow_column-1
+{
+/* Reusable */
+
+position: absolute;
+width: 103px;
+height: 18px;
+left: 12px;
+top: 85px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+}
+#widget11_2_table_secondrow_column-2
+{
+    /* 10% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 120px;
+top: 85px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+}
+#widget11_2_table_secondrow_column-3
+{
+/* 4% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 152px;
+top: 85px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+
+}
+#widget11_2_table_thirdrow_column-1
+{
+/* Reusable */
+
+position: absolute;
+width: 103px;
+height: 18px;
+left:21px;
+top: 104px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+}
+#widget11_2_table_thirdrow_column-2
+{
+    /* 10% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 120px;
+top: 104px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+}
+#widget11_2_table_thirdrow_column-3
+{
+/* 4% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 154px;
+top: 104px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+
+}
+#widget11_2_table_fourthrow_column-1
+{
+/* Reusable */
+
+position: absolute;
+width: 103px;
+height: 18px;
+left: 14px;
+top: 122px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+}
+#widget11_2_table_fourthrow_column-2
+{
+    /* 10% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 120px;
+top: 122px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+}
+#widget11_2_table_fourthrow_column-3
+{
+/* 4% */
+
+position: absolute;
+width: 35px;
+height: 18px;
+left: 154px;
+top: 122px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #474747A6;
+
+
+}
+#widget11_2_table_fifthrow_column-1
+{
+/* Total */
+
+position: absolute;
+width: 103px;
+height: 19px;
+left: -16px;
+top: 147px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #393939E5;
+
+
+}
+#widget11_2_table_fifthrow_column-2
+{
+ /* 8% */
+
+position: absolute;
+width: 35px;
+height: 19px;
+left: 155px;
+top: 147px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #393939E5;
+
+
+
+}
+#widget11_2_table_fifthrow_column-3
+{
+/* 12% */
+
+position: absolute;
+width: 35px;
+height: 19px;
+left: 123px;
+top: 147px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+text-align: center;
+font-feature-settings: 'ss01' on, 'cv01' on, 'cv11' on;
+
+color: #393939E5;
+;
+
+
+}
+#widget011_2_down_icon
+{
+    /* Rectangle 27 */
+
+position: absolute;
+width: 10px;
+height: 5px;
+left: 105px;
+top: 174px;
+
+background: rgba(217, 217, 217, 0.15);
+border-radius: 5px;
+
+}
+#widget-011_3_section-1_today
+{
+    /* Today */
+position: absolute;
+width: 33px;
+height: 18px;
+left: 26px;
+top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height, or 164% */
+color: #8c8a8a;
+}
+#widget-011_3_section-1_img-1
+{
+  /* Vector */
+position: absolute;
+left: 18.02%;
+right: 70.98%;
+top: 19.04%;
+bottom: 84.2%;
+width: 10px;  
+}
+#widget-011_3_section-1_img-2
+{
+    /* Frame 2 */
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+position: absolute;
+width: 18px;
+height: 4px;
+left: 431px;
+top: 32px;
+}
+#widget-011_3_section-1_text
+{
+   
+    /* Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in */
+
+display: inline;
+position: relative;
+width: 204px;
+height: 108px;
+left: 1px;
+top: 51px;
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+color: rgba(0, 0, 0, 0.65);
+}
+#bold_numbers_12
+{
+   font-weight: bold;
+}

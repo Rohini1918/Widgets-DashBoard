@@ -1,0 +1,64 @@
+#number
+{
+    /* 89,000 */
+
+position: absolute;
+width: 58px;
+height: 19px;
+left: -33px;
+top: -10px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* or 120% */
+text-align: center;
+
+color: #4F4F4F;
+
+
+}
+#orders
+{
+    /* Orders */
+
+position: absolute;
+width: 48px;
+height: 19px;
+left: -28px;
+top: 10px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* or 200% */
+text-align: center;
+
+color: #BBBBBB;
+
+
+}
+#SvgjsText2423
+{
+    display : none;
+}
+#SvgjsText1590
+{
+    display: none;
+}
+#SvgjsG1599
+{
+    display: none;
+}
+#SvgjsG1609
+{
+    display: none;
+}
+#SvgjsG1619
+{
+    display: none;
+}

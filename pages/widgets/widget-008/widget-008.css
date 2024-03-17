@@ -1,0 +1,403 @@
+#widget-008
+{
+    /* Rectangle 256 */
+box-sizing: border-box;
+position: absolute;
+width: 190px;
+height: 623px;
+right: 280px;
+bottom: 20px;
+background: #282828;
+border: 1px solid #E7E7E7;
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
+#widget-008_section-1
+{
+    display: flex;
+    gap: 40px;
+}
+#days8
+{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    margin-left: -10px;
+}
+#day8
+{
+width: 37px;
+height: 19px;
+top: 10px;
+margin-left: -10px;
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+color: #BBBBBB;
+}
+#day8:hover{
+    color:white;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 10px;
+}
+#threedots_icon8
+{
+   /* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+position: absolute;
+width: 18px;
+height: 5px;
+left: 155px;
+top: 25px;
+}
+#widget-008_section-1_header1
+{
+    color: #BBBBBB;
+    /* Vector 191 */
+
+position: absolute;
+width: 188px;
+height: 0px;
+left: 1px;
+top: 35px;
+border: 1px solid #727272
+}
+#widget-008_section-2
+{
+    height: 350px;
+    width:150px;
+    position:absolute
+}
+#widget-008_section-3
+{
+    position:absolute;
+    top:300px;
+}
+#widget-008_section-3_data1
+{
+    height:26px;
+}
+#widget-008_section-3_data1::before
+{
+    content: "";
+    display: block;
+    width: 3px;
+    height: 36px;
+    background: #FB8181;
+    left: 30px;
+    top: 50px;
+    position: absolute;
+    border-radius: 1px;
+}
+#widget-008_section-3_data1_text
+{
+    /* Christmas25 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top: 35px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+color: #7E7E7E;
+transform: rotate(-0.58deg);
+}
+#widget-008_section-3_data1_count
+{
+    /* 5,700 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 10px;
+top: 50px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #F3F3F3;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-2_header
+{
+    /* Vector 226 */
+
+position: absolute;
+width: 152px;
+height: 0px;
+left: 19px;
+top: 327px;
+
+border: 1px solid #727272;
+
+}
+#widget-008_section-3_data2
+{
+    height:26px;
+}
+#widget-008_section-3_data2::before
+{
+    content: "";
+    display: block;
+    width: 3px;
+    height: 36px;
+    background: #5E5ADB;
+    left: 30px;
+    top: 100px;
+    position: absolute;
+    border-radius: 1px;
+}
+#widget-008_section-3_data2_text
+{
+    /* BirthdaySpecial25 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 30px;
+top: 85px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+
+color: #7E7E7E;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-3_data2_count
+{
+    /* 27,000 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top: 100px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #F3F3F3;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-3_data3
+{
+    height:26px;
+}
+#widget-008_section-3_data3::before{
+    content: "";
+    display: block;
+    width: 3px;
+    height: 36px;
+    background: #54D787;
+    left: 30px;
+    top: 150px;
+    position: absolute;
+    border-radius: 1px;
+}
+#widget-008_section-3_data3_text
+{
+/* Newuser30 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top: 140px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+
+color: #7E7E7E;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-3_data3_count
+{
+    /* 12,500 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top: 155px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #F3F3F3;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-3_data4
+{
+    height:26px;
+}
+#widget-008_section-3_data4::before{
+content: "";
+    display: block;
+    width: 3px;
+    height: 36px;
+    background: #82D1DB;
+    left: 30px;
+    top: 208px;
+    position: absolute;
+    border-radius: 1px;
+}
+#widget-008_section-3_data4_text
+{
+/* Newuser30 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top: 195px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+
+color: #7E7E7E;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-3_data4_count
+{
+    /* 16,000 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top: 210px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #F3F3F3;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-3_data5
+{
+    height:26px;
+}
+#widget-008_section-3_data5::before{
+    content: "";
+        display: block;
+        width: 3px;
+        height: 36px;
+        background: #F0AB24;
+        left: 30px;
+        top: 265px;
+        position: absolute;
+        border-radius: 1px;
+    }
+#widget-008_section-3_data5_text
+{
+/* Newuser30 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top:250px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+
+color: #7E7E7E;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-008_section-3_data5_count
+{
+    /* 17,500 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 15px;
+top: 265px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #F3F3F3;
+
+transform: rotate(-0.58deg);
+
+}

@@ -1,0 +1,13 @@
+#w1_chart
+{
+    height: 243px;
+    top : 45px
+}
+.apexcharts-legend
+{
+    visibility: hidden;
+}
+.apexcharts-toolbar
+{
+    visibility: hidden;
+}

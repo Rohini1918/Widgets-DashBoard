@@ -1,0 +1,15 @@
+#navigation
+{
+    /* Navigation */
+
+box-sizing: border-box;
+position: absolute;
+width: 1450px;
+height: 64px;
+left: 80px;
+top: 0px;
+
+background: #FFFFFF;
+border-bottom: 1px solid #E4E4E7;
+
+}

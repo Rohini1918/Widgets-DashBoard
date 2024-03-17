@@ -1,0 +1,16 @@
+[
+{
+    "name" : "widget_frame",
+    "number_of_days" :["7d","14d","30d"],
+    "icon" : "D:/Crux_frontend/assignment/src/images/widget-1_icon.png",
+    "table" : 
+    {   
+        "title-column-1" : "PRODUCT",
+        "title-column-2" : "Q1-23",
+        "title-column-3" : "Q2-23",
+        "data_column-1" : ["Reusable","Natural Resource", "Compost Coumpound", "Reusable Materials","Total"],
+        "data_column-2" : ["10%","2%","7%","3%","8%"],
+        "data_column-3" : ["4%","11%","5%","4%","12%"]
+    }
+}
+]

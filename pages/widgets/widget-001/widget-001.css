@@ -1,0 +1,301 @@
+#widget001
+{
+
+/* Rectangle 244 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 190px;
+height: 415px;
+
+background: #FFFFFF;
+border: 1px solid #E7E7E7;
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+bottom: 20px;
+left: 600px;
+
+
+}
+#widget-001_section-1
+{
+    display: flex;
+    gap: 40px;
+}
+#days1
+{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    margin-left: -10px;
+}
+#day1
+{
+width: 37px;
+height: 19px;
+top: 10px;
+margin-left: -10px;
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+color: #BBBBBB;
+}
+#day1:hover{
+    color:#5E5ADB;
+    text-decoration: underline;
+    text-decoration-color: #5E5ADB;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 6px;
+}
+#threedots_icon1
+{
+   /* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+position: absolute;
+width: 18px;
+height: 5px;
+left: 155px;
+top: 25px;
+}
+#widget-001_section-1_header1
+{
+    color: #BBBBBB;
+    /* Vector 191 */
+
+position: absolute;
+width: 188px;
+height: 0px;
+left: 1px;
+top: 31px;
+
+border: 1px solid #E1E1E1;
+
+}
+#widget-001_section-3_data1_img
+{
+    /* Rectangle 246 */
+
+position: absolute;
+width: 3px;
+height: 36px;
+left: 25px;
+top: 280.22px;
+
+background: #FB8181;
+border-radius: 1px;
+
+}
+#widget-001_section-3_data2_img
+{
+   /* Rectangle 245 */
+
+position: absolute;
+width: 3px;
+height: 36px;
+left: 25px;
+top: 325.22px;
+
+background: #5E5ADB;
+border-radius: 1px;
+
+}
+#widget-001_section-3_data3_img
+{
+  /* Rectangle 247 */
+
+position: absolute;
+width: 3px;
+height: 36px;
+left: 25px;
+top: 369.22px;
+
+background: #54D787;
+border-radius: 1px;
+
+}
+#widget-001_section-3_data1_text
+{
+/* Christmas25 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 10px;
+top: 262.22px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+
+color: #AFAFAF;
+
+transform: rotate(-0.58deg);
+}
+#widget-001_section-3_data2_text
+{
+   /* BirthdaySpecial25 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 28px;
+top: 309.22px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+
+color: #AFAFAF;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-001_section-3_data3_text
+{
+    /* Newuser30 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 5px;
+top: 357.22px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 14px;
+/* or 144% */
+letter-spacing: 0.02em;
+
+color: #AFAFAF;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-001_section-3_data1_count
+{
+    /* 5,700 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 5px;
+top: 275.22px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #4F4F4F;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-001_section-3_data2_count
+{
+    /* 27,000 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 5px;
+top: 325.22px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #4F4F4F;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-001_section-3_data3_count
+{
+    /* 12,500 */
+
+position: absolute;
+width: 119.97px;
+height: 12px;
+left: 5px;
+top: 371.22px;
+
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 14px;
+/* or 103% */
+letter-spacing: 0.02em;
+
+color: #4F4F4F;
+
+transform: rotate(-0.58deg);
+
+}
+#widget-001_section-3_scroll-1
+{
+    /* Rectangle 206 */
+
+position: absolute;
+width: 4px;
+height: 99px;
+left: 183px;
+top: 288px;
+
+background: rgba(217, 217, 217, 0.4);
+border-radius: 10px;
+
+}
+#widget-001_section-3_scroll-2
+{
+    /* Rectangle 207 */
+
+position: absolute;
+width: 4px;
+height: 47px;
+left: 183px;
+top: 288px;
+
+background: #CDCDCD;
+border-radius: 10px;
+}
+#widget-001_section-2_header
+{
+/* Vector 192 */
+
+position: absolute;
+width: 182px;
+height: 0px;
+left: 3px;
+top: 254px;
+
+border: 1px solid #EDEDED;
+}

@@ -1,0 +1,81 @@
+#widget-007
+{
+    /* Rectangle 162 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 190px;
+height: 405px;
+right: 50px;
+bottom: 20px;
+
+background: #FFFFFF;
+border: 1px solid #E7E7E7;
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+
+}
+#widget-007_section-1
+{
+    display: flex;
+    gap: 40px;
+}
+#days7
+{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    margin-left: -10px;
+}
+#day7
+{
+width: 37px;
+height: 19px;
+top: 10px;
+margin-left: -10px;
+font-family: 'Geist';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+color: #BBBBBB;
+}
+#day7:hover{
+    color:#5E5ADB;
+    text-decoration: underline;
+    text-decoration-color: #5E5ADB;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 6px;
+}
+#threedots_icon7
+{
+   /* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+position: absolute;
+width: 18px;
+height: 5px;
+left: 155px;
+top: 25px;
+}
+#widget-007_section-1_header
+{
+    color: #BBBBBB;
+    /* Vector 191 */
+
+position: absolute;
+width: 188px;
+height: 0px;
+left: 1px;
+top: 31px;
+
+border: 1px solid #E1E1E1;
+
+}

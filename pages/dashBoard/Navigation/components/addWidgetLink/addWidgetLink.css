@@ -1,0 +1,47 @@
+#addWidgetLink_btn
+{
+    /* Link */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 140px;
+height: 40px;
+left: 1127px;
+top: calc(50% - 40px/2);
+
+background: rgba(94, 90, 219, 0.05);
+border: 1px solid rgba(94, 90, 219, 0.15);
+border-radius: 8px;
+
+}
+#addWidgetLink_btn_text
+{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 800;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(94, 90, 219, 1);
+margin-left: 10px;
+
+}
+/* #addWidgetLink_btn_plus
+{
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 140px;
+height: 40px;
+left: 1127px;
+top: calc(50% - 40px/2);
+
+background: rgba(94, 90, 219, 0.05);
+border: 1px solid rgba(94, 90, 219, 0.15);
+border-radius: 8px;
+
+
+} */

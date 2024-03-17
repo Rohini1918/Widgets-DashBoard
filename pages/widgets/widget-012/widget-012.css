@@ -1,0 +1,80 @@
+#widget-012
+{
+/* Rectangle 8 */
+
+position: absolute;
+width: 460px;
+height: 191px;
+right : 500px;
+top: 350px;
+padding: 5px;
+background: #FFFFFF;
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+
+}
+#widget-012_section-1_today
+{
+    /* Today */
+position: absolute;
+width: 33px;
+height: 18px;
+left: 26px;
+top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height, or 164% */
+color: #8c8a8a;
+}
+#widget-012_section-1_img-1
+{
+  /* Vector */
+position: absolute;
+left: 18.02%;
+right: 70.98%;
+top: 19.04%;
+bottom: 84.2%;
+width: 10px;  
+}
+#widget-012_section-1_img-2
+{
+    /* Frame 2 */
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+position: absolute;
+width: 18px;
+height: 4px;
+left: 431px;
+top: 32px;
+}
+#widget-012_section-1_text
+{
+   
+    /* Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in */
+
+display: inline;
+position: relative;
+width: 204px;
+height: 108px;
+left: 1px;
+top: 51px;
+font-family: 'Geist';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+color: rgba(0, 0, 0, 0.65);
+}
+#bold_numbers_12
+{
+   font-weight: bold;
+}
